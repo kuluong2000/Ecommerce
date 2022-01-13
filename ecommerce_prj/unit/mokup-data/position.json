@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "position_id": "epl",
+        "title": "employee"
+    },
+    {
+        "id": 2,
+        "position_id": "depart",
+        "title": "department_head"
+    },
+    {
+        "id": 3,
+        "position_id": "dir",
+        "title": "director"
+    }
+]

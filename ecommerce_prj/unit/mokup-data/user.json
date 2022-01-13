@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "email": "admin",
+        "password": "admin",
+        "role": "admin"
+    },
+    {
+        "id": 2,
+        "email": "tranluong@gmail.com",
+        "password": "123456789",
+        "role": "employee"
+    },
+    {
+        "id": 3,
+        "email": "sydung@gmail.com",
+        "password": "123456789",
+        "role": "employee"
+    },
+    {
+        "id": 4,
+        "email": "thuydung@gmail.com",
+        "password": "123456789",
+        "role": "employee"
+    },
+    {
+        "id": 5,
+        "email": "hieuvo@gmail.com",
+        "password": "123456789",
+        "role": "employee"
+    },
+    {
+        "id": 6,
+        "email": "cason@gmail.com",
+        "password": "123456789",
+        "role": "department"
+    },
+    {
+        "id": 7,
+        "email": "k2@gmail.com",
+        "password": "123456789",
+        "role": "director"
+    },
+    {
+        "id": 8,
+        "email": "k3@gmail.com",
+        "password": "123456789",
+        "role": "department"
+    },
+    {
+        "id": 9,
+        "email": "k4@gmail.com",
+        "password": "123456789",
+        "role": "department"
+    },
+    {
+        "id": 10,
+        "email": "k5@gmail.com",
+        "password": "123456789",
+        "role": "employee"
+    },
+    {
+        "id": 11,
+        "email": "k6@gmail.com",
+        "password": "123456789",
+        "role": "employee"
+    },
+    {
+        "id": 12,
+        "email": "k7@gmail.com",
+        "password": "123456789",
+        "role": "employee"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "id": 2,
+        "firstName": "Lương",
+        "lastname": "Trần Hữu",
+        "email": "luongtran@gmail.com",
+        "password": "12345678",
+        "role": "employee",
+        "facilities_id": "mt01",
+        "position_id": "epl"
+    },
+    {
+        "id": 3,
+        "firstName": "Dũng",
+        "lastname": "Nguyễn Sỹ",
+        "email": "sydung@gmail.com",
+        "password": "12345678",
+        "role": "employee",
+        "facilities_id": "mi01",
+        "position_id": "epl"
+    },
+    {
+        "id": 4,
+        "firstName": "Dung",
+        "lastname": "Dương Thị Thùy",
+        "email": "sydung@gmail.com",
+        "password": "12345678",
+        "role": "employee",
+        "facilities_id": "pc01",
+        "position_id": "epl"
+    },
+    {
+        "id": 5,
+        "firstName": "Hiếu",
+        "lastname": "Võ Trung",
+        "email": "hieuvo@gmail.com",
+        "password": "12345678",
+        "role": "employee",
+        "facilities_id": "mq220",
+        "position_id": "epl"
+    },
+    {
+        "id":6,
+        "firstName": "Trang",
+        "lastname": "Võ Thi Thuy",
+        "email": "k2@gmail.com",
+        "password": "12345678",
+        "role": "director",
+        "depart_id":"FAC9",
+        "position_id": "dir"
+    }
+
+]

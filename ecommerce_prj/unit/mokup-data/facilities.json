@@ -1,0 +1,83 @@
+[
+    {
+   "id":1,
+    "facilities_id":"mt01",
+    "title":"máy tính",
+    "price":1500000,
+    "qty":10,
+    "image":"xxx"
+},
+ {
+   "id":2,
+    "facilities_id":"mi01",
+    "title":"máy in",
+    "price":500000,
+    "qty":20,
+    "image":"xxx"
+ },
+  {
+   "id":3,
+    "facilities_id":"pc01",
+    "title":"máy tính để bàn",
+    "price":500000,
+    "qty":20,
+    "image":"xxx"
+ },
+
+  {
+   "id":4,
+    "facilities_id":"mcp20",
+    "title":"máy chiếu panasonic",
+    "price":2000000,
+    "qty":20,
+    "image":"xxx"
+ },
+{
+   "id":5,
+    "facilities_id":"mq220",
+    "title":"máy quạt",
+    "price":200000,
+    "qty":50,
+    "image":"xxx"
+ },
+{
+   "id":6,
+    "facilities_id":"mcb110",
+    "title":"máy chiếu beenQ",
+    "price":2000000,
+    "qty":50,
+    "image":"xxx"
+ },
+ {
+   "id":7,
+    "facilities_id":"mcb110",
+    "title":"máy chiếu beenQ",
+    "price":2000000,
+    "qty":50,
+    "image":"xxx"
+ },
+{
+   "id":8,
+    "facilities_id":"mcxm110",
+    "title":"máy chiếu xiaomi",
+    "price":2000000,
+    "qty":50,
+    "image":"xxx"
+ },
+ {
+   "id":9,
+    "facilities_id":"table09",
+    "title":"bàn",
+    "price":200000,
+    "qty":50,
+    "image":"xxx"
+ },
+  {
+   "id":10,
+    "facilities_id":"chair10",
+    "title":"ghế",
+    "price":200000,
+    "qty":50,
+    "image":"xxx"
+ }
+]
