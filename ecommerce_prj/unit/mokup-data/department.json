@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "depart_id":"MTK2",
+        "depart_name":"marketing"
+    },
+    {
+        "id":2,
+        "depart_id":"SL2",
+        "depart_name":"sales"
+    },
+    {
+        "id":3,
+        "depart_id":"HR3",
+        "depart_name":"Human Resource Department"
+    },
+    {
+        "id":4,
+        "depart_id":"TD4",
+        "depart_name":"Training Department"
+    },
+    {
+        "id":5,
+        "depart_id":"ACD5",
+        "depart_name":"Accounting Department"
+    },
+    {
+        "id":6,
+        "depart_id":"TRD6",
+        "depart_name":"Treasury Department"
+    },
+    {
+        "id":7,
+        "depart_id":"AD7",
+        "depart_name":"Audit Department"
+    },
+    {
+        "id":8,
+        "depart_id":"CSD8",
+        "depart_name":"Customer Service Department"
+    },
+    {
+        "id":9,
+        "depart_id":"FAC9",
+        "depart_name":"facilities department"
+    },
+]
